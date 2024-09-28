@@ -1,0 +1,22 @@
+version(1);
+
+project_name = "Socket Testing";
+
+patterns = {
+    "*.cpp",
+    "*.h",
+    "*.c",
+    "*.vert",
+    "*.frag",
+    "*.glsl",
+    "*.bat",
+    "*.sh",
+    "*.4coder",
+    "*.txt",
+    "*.sja"
+};
+
+load_paths = {
+    { { {".", .relative = true, .recursive = true},}, .os = "win"},
+    { { {".", .relative = true, .recursive = true},}, .os = "linux"},
+};

@@ -1,0 +1,3 @@
+#include "win32_resource.h"
+
+// WIN32_PROCESSED_ASSETS RCDATA "processed_assets.sjap"

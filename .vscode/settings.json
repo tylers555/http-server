@@ -1,0 +1,7 @@
+{
+    "files.readonlyInclude": {
+        "**/*.c": true,
+        "**/*.cpp": true,
+        "**/*.h": true
+    }
+}
